@@ -40,6 +40,8 @@ Note Author: RobinXYuan
   Period style refers to **the characteristic artistic manner of a spe- cific time**, **usually within a distinct culture**, such as “Archaic Greek”or “Late Byzantine.”
 - REGIONAL STYLE
   Regional style is the term art historians use to describe variations in style tied to geography. Like an object’s date, its provenance, or place of origin, can significantly determine its character.Very of- ten two artworks from the same place made centuries apart are more similar than contemporaneous works from two different regions.
+  ![Choir of Beauvais Cathedral,Beauvais,France,rebuilt after 1284](pic1.png)
+  ![Interior of Santa Croce,Florence,Italy,begun 1294.](pic2.png)
 - PERSONAL STYLE
   Personal style, the distinctive manner of individual artists or ar- chitects,often decisively explains stylistic discrepancies among mon- uments of the same time and place. 
   
