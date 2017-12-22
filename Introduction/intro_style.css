@@ -103,6 +103,10 @@ header h5 {
     border: 0em !important;
 }
 
+td {
+    text-align: justify;
+}
+
 .border-left {
 
 }
